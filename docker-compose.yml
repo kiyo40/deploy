@@ -6,4 +6,4 @@ service:
       - "8080:80"
 services:
   nginx:
-    image: kiyo40/docker-cicd:202607161714
+    image: kiyo40/docker-cicd:202607161725
